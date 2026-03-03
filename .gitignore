@@ -1,0 +1,11 @@
+# Database files
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# Python cache
+_pycache_/
+*.pyc
+
+# Environment files
+.env
